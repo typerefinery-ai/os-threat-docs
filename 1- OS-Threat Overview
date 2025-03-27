@@ -68,9 +68,11 @@ OS-Unified-LLM has a scoring system against which it scores open-source app fram
 
 OS-Unified-LLM will develop easily discoverable toolsets, such as configurable memory, multiple types of RAG systems, model debugging and tracing. Usders can also install their own choices of open-source tools, and still address these common resources through MCP (Model Context Protocol).
 
-OS-UNified-LLM will develop user interfaces for some libraries, depending on user demand. 
+OS-Unified-LLM will be used extensively in combination with OS-Triage, on cybersecurity tasks, however it can also be used on its own, without the need for any cybersecurity. OS-Unified-LLM is a powerful platform for your next open source project.
 
-The ability of the OS-Threat app to
+OS-UNified-LLM may develop user interfaces for particular libraries, depending on user demand. 
+
+The ability of the OS-Threat app to be extended or customised by the user is enormous.
 
 
 ![OS-Unified-LLM will be the Second Native App](./img/4-unified-llm-is-2nd-app.png)
