@@ -37,7 +37,7 @@ You can send these reports to your government cyber security agency, and they wi
 
 Further, we provide you with a means to capture Impacts, Tasks and Key Events in the Incident. Integrating with the OCA Kestrel Hunting System, means that users can hunt for artefacts through 35 different alert systems.
 
-Exposing the novel, CISA-backed OCA Indicators of Behavior objects, means that finally threat hunters can link ***"Detections"*** from ***"Detectors"***, to identify threatening ***"Behaviors"***, and fire off automated response ***"Playbooks"*** (CACAO).
+Exposing the novel, [CISA-backed OCA Indicators of Behavior objects](https://opencybersecurityalliance.org/iob/), means that finally threat hunters can link ***"Detections"*** from ***"Detectors"***, to identify threatening ***"Behaviors"***, and fire off automated response ***"Playbooks"*** (CACAO).
 
 Finally, making all of this available in a simple, icon-driven user interface, with powerful, extensible Stix Form behaviour, makes it all easy to use for the cybersecurity professional.
 
@@ -48,10 +48,10 @@ Finally, making all of this available in a simple, icon-driven user interface, w
 
 Incident Management is useful by itself, but its utility is magnified many times by integrating it with:
 
-- CACAO Roaster - An Existing CACAO Workflow designer
-- CACAO SOARCA - An existing CACAO server, including Open-C2 command language
-- Jupyter Lab - An open source Python Notebook Interface
-- OCA Kestrel Hunting - Hunt through 35 different systems
+- [CACAO Roaster](https://opencybersecurityalliance.org/cacao-roaster/) - An Existing CACAO Workflow designer
+- [CACAO SOARCA](https://github.com/COSSAS/SOARCA) - An existing CACAO server, including Open-C2 command language
+- [Jupyter Lab](https://jupyter.org/install) - An open source Python Notebook Interface
+- OCA Kestrel Hunting - [Hunt through 35 different systems](https://stix-shifter.readthedocs.io/en/latest/CONNECTORS.html)
 - Open Observe - Connect to your company's alerting system
 - plus others
 
