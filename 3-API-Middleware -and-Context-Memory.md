@@ -34,7 +34,9 @@ There is only one context directory for the User (i.e. there can be only one Use
 
 This structure is shown below, where the stix id's ae used as the directory names, for each company or incident, and the names are registered in a context map file. The context map file is a json that contains a list of all companies and a list of all incidents, as well as fields with the stix-id's of the current incident and current company.
 
-![Contest Memory Directories](./img/Context_Memory_Directories.png)
+
+
+<img src="./img/Context_Memory_Directories.png" alt="Contest Memory Directories" width="378" height="300">
 
 
 
@@ -58,7 +60,8 @@ However, objects are only promoted into the Incident when they have been careful
 
 This idea of an unattached memory, one can have hanging around between sessions, before promotion, is a unique concept to OS-Threat.
 
-![Incident Context Memory Directory](./img/Incident_Context_Directory.png)
+
+<img src="./img/Incident_Context_Directory.png" alt="Incident Context Memory Directory" width="639" height="500">
 
 ### 3.1.3: Company Context
 
@@ -82,7 +85,11 @@ Attached to a company are:
 
 Currently, an Identity is used where there is no proper Stix objects and OS-Threat uses custom categories, and different icons (e.g. asset SDO)
 
-![Company Contest Memory Directory](./img/Company_Context_Directory.png)
+
+
+<img src="./img/Company_Context_Directory.png" alt="Company Contest Memory Directory" width="378" height="300">
+
+
 
 ### 3.1.4: User Context
 
@@ -100,7 +107,9 @@ The user details include:
 - user identity, email-addr's, and user-account's
 - team details, including identity's, email-addr's anduser-account's
 
-![User Contest Memory Directory](./img/User_Context_Directory.png)
+
+
+<img src="./img/User_Context_Directory.png" alt="User Contest Memory Directory" width="378" height="300">
 
 
 ## 3.2 Vix-Data API's
