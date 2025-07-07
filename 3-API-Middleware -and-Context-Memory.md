@@ -35,7 +35,6 @@ There is only one context directory for the User (i.e. there can be only one Use
 This structure is shown below, where the stix id's ae used as the directory names, for each company or incident, and the names are registered in a context map file. The context map file is a json that contains a list of all companies and a list of all incidents, as well as fields with the stix-id's of the current incident and current company.
 
 
-
 <img src="./img/Context_Memory_Directories.png" alt="Contest Memory Directories" width="378" height="300">
 
 
