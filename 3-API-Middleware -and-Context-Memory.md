@@ -108,7 +108,6 @@ The user details include:
 - team details, including identity's, email-addr's anduser-account's
 
 
-
 <img src="./img/User_Context_Directory.png" alt="User Contest Memory Directory" width="378" height="300">
 
 
